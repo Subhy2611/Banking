@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -38,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # Banking
 >>>>>>> 0f405727e89e5736b3c9196966a024bdbc0e25a8
+=======
+
+>>>>>>> ac35a31bab99f78762be11a14df25f2b3530e5be
